@@ -1,0 +1,17 @@
+.rndnumsrow{
+    width: 30%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 300px auto 0;
+    border: 1px solid black;
+}
+
+.randomnum{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+    background-color: #4EC9B0;
+}
